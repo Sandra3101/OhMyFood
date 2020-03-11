@@ -388,8 +388,9 @@ header
 			margin-left: 200px;
 			margin-right: 200px;
 			line-height: 300%;
-
+			font-size: x-large;
 		}
+
 
 		p span
 		{ 
@@ -472,6 +473,43 @@ header
 
 
 
+
+		/*-----------------------------------Page Le chic à la française----------------*/
+
+		.card_2A p
+		{
+			color: #C76C13;
+		}
+
+
+		.midlign_2A
+		{
+			color: #C76C13;
+		}
+
+
+
+		.card_2B p h2
+		{
+			color: #AB609B;
+		}
+
+		.midlign_2B
+		{
+			color: #AB609B;
+		}
+
+
+		.card_2C p h2
+		{
+			color: #6544B5;
+		}
+
+
+		.midlign_2C
+		{
+			color: #6544B5;
+		}
 
 
 
